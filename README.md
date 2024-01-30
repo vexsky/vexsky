@@ -72,7 +72,7 @@
   </a>
   
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=t1nyTi&column=7&theme=light"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vexsky&column=7&theme=light"/>
 </p>
 </p>
 </details>
